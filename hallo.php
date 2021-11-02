@@ -10,8 +10,12 @@
     <h1> 
         <?php
     /*begroetingsregel */
-      echo "hallo wereld";
-      echo "<h2>Maik Alexander Lüdeck</h2>"
+    echo "hallo wereld";
+      echo "<h2>Maik Alexander Lüdeck</h2>";
+    "van [mijn naam]";
+      /*BINNEN*/
+    //hi 
+    #hi
     ?> 
     </h1>
 </body>
