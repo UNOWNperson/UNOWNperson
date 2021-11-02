@@ -7,9 +7,12 @@
     <title>hallo</title>
 </head>
 <body>
-    <?php
+    <h1> 
+        <?php
     /*begroetingsregel */
-      echo "<h1>hallo wereld</h1>";
-    ?>
+      echo "hallo wereld";
+      <h2>Maik Alexander Lüdeck</h2>
+    ?> 
+    </h1>
 </body>
 </html>
