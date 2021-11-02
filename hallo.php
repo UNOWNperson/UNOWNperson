@@ -11,7 +11,7 @@
         <?php
     /*begroetingsregel */
       echo "hallo wereld";
-      <h2>Maik Alexander Lüdeck</h2>
+      echo "<h2>Maik Alexander Lüdeck</h2>"
     ?> 
     </h1>
 </body>
