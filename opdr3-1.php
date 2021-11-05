@@ -21,7 +21,7 @@
     echo "<br>";
 
     $dayoftheweek = date("j");
-    echo "het is vandaag : $dayoftheweek -de van de week";
+    echo "het is vandaag de: $dayoftheweek -de dag van de week";
 
     echo "<br>";
 
